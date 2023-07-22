@@ -4,7 +4,7 @@ title: Projects
 
 # 1. TND: Simulation Study
 
-[Link to the Github Repository](https://github.com/ortizbrizuela/Potential_Biases_in_TNDs_Including_Asymptomatic_Individuals/blob/main/0_Main_TND_Sims_v17.Rmd)
+[Link to the Github Repository](https://github.com/ortizbrizuela/Potential_Biases_in_TNDs_Including_Asymptomatic_Individuals)
 
 
 ----
