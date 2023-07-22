@@ -1,10 +1,30 @@
 ---
-title: Projects
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?hl=es&user=rYaloZcAAAAJ
+    - icon: github
+      text: Github
+      href: https://github.com/ortizbrizuela
+    - icon: linkedin
+      text: LinkedIn
+      href: https://ca.linkedin.com/in/ortiz-brizuela
+    - icon: envelope
+      text: Email
+      href: "mailto:edgar.ortiz-brizuela@mail.mcgill.ca"  
 ---
 
-# 1. TND: Simulation Study
+::: {#about-block}
+:::
 
+# Greetings!
 
+I'm delighted to welcome you to my personal website. I'm **Edgar Ortiz-Brizuela**, a Ph.D. student in Epidemiology at McGill University. Prior to pursuing my Ph.D., I received my training as an Infectious Diseases and Internal Medicine physician at the Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán (INCMNSZ) in Mexico City, Mexico.
 
-----
+This website is a window into my work and my research interests, which are primarily in the realms of causal inference and infectious diseases. I'm excited to share my journey with you and engage in thoughtful discussions around these fascinating topics.
 
+Thank you for visiting, and I invite you to explore and [connect with me](mailto:edgar.ortiz-brizuela@mail.mcgill.ca).
