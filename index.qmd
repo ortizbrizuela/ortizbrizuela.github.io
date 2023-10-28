@@ -23,13 +23,13 @@ about:
 ::: {#about-block}
 :::
 
-# Welcome to My World!
+# Welcome 
 
 ## About Me
 I'm **Edgar Ortiz-Brizuela**, a Ph.D. student in Epidemiology at McGill University. 
 
 ## My Background
-Prior to my Ph.D., I specialized in Infectious Diseases and Internal Medicine at the [Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán (INCMNSZ)](http://www.incmnsz.mx/) in Mexico City.
+I graduated in Medicine at the UASLP in Mexico. Subsequently, I specialized in Internal Medicine and Infectious Diseases at the Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán (INCMNSZ) in Mexico City. I also earned a Master of Science in Epidemiology from McGill University and a Master of Sciences in Clinical Sciences from UNAM, Mexico.
 
 ## Research Interests
 - Causal Inference
