@@ -1,8 +1,8 @@
 ---
-title: Projects
+title: Research Projects
 ---
 
-# 1. TND: Simulation Study
+# 1. Potential Biases in Test-Negative Design Studies of COVID-19 Vaccine Effectiveness Arising from the Inclusion of Asymptomatic Individuals
 
 [Link to the Github Repository](https://github.com/ortizbrizuela/Potential_Biases_in_TNDs_Including_Asymptomatic_Individuals)
 

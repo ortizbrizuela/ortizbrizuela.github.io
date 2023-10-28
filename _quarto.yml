@@ -16,7 +16,7 @@ website:
     left:
       - text: "Projects"
         href: projects/index.qmd
-      - text: "CV"
+      - text: "Resume"
         href: cv/index.qmd
     
     # your social media handles
@@ -33,7 +33,6 @@ website:
   
   
 
-# Don't touch unless you know what you are doing :) ------------
   search: 
     location: navbar
     type: textbox
