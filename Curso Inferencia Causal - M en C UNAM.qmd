@@ -1,0 +1,4 @@
+---
+title: "Curso Inferencia Causal - M en C UNAM"
+editor: visual
+---

@@ -3,18 +3,37 @@ project:
   output-dir: docs
 
 website:
-  title: "website"
+  title: "Ortiz-Brizuela"
+
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Inicio
+        icon: house-fill
+      - href: about.qmd
+        text: Información del Sitio
+        icon: info-square-fill
+    search: true
+    tools:
+      - icon: book
+        text: Research links
+        menu:
+          - icon: globe-europe-africa
+            href: https://scholar.google.com/citations?user=rYaloZcAAAAJ&hl=es
+            text: Google Scholar
+          - icon: globe-americas
+            href: https://www.scopus.com/authid/detail.uri?authorId=57191414443
+            text: Scopus
+          - icon: globe-central-south-asia
+            href: https://orcid.org/0000-0001-7169-8459
+            text: ORCID
+      - icon: github
+        text: GitHub
+        href: https://github.com/ortizbrizuela
+            
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
-
-
-
